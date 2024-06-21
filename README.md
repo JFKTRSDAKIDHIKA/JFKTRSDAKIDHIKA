@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JFKTRSDAKIDHIKA
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java,deep learning and computer network.
+- 🌱 I’m currently learning Java and data structure.
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ? no way
+- 📫 How to reach me ? 2023210131@bupt.deu.cn
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

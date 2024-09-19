@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ucb eecs152 and mit 6.s081.
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me ? 2023210131@bupt.deu.cn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: tou
+- ⚡ Fun fact: JFKTRSDAKIDHIKA could have gotten into Shanghai Jiao Tong University, but due to bad luck, ended up at Beijing University of Posts and Telecommunications.
 
 <!---
 JFKTRSDAKIDHIKA/JFKTRSDAKIDHIKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
